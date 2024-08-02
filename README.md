@@ -33,6 +33,6 @@ Bu proje, bir ürün kartını HTML ve CSS kullanarak oluşturmanızı sağlayan
 - Font Awesome
 - Google Fonts
 
-![Cw](./img/gt.jpg)
+https://github.com/user-attachments/assets/b43c715f-31ce-494d-b21a-0542fab6500d
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/Product-Card/)
