@@ -11,10 +11,11 @@ This project is an example that lets you create a product card using HTML and CS
 
 ## Technologies
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Font Awesome
 - Google Fonts
+
 # Product Card
 
 Bu proje, bir ürün kartını HTML ve CSS kullanarak oluşturmanızı sağlayan bir örnektir. Proje, bir Macbook Air ürününün kartını tasvir etmektedir.
@@ -28,8 +29,8 @@ Bu proje, bir ürün kartını HTML ve CSS kullanarak oluşturmanızı sağlayan
 
 ## Teknolojiler
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Font Awesome
 - Google Fonts
 
