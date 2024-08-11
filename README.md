@@ -1,36 +1,38 @@
 # Product Card
 
-This project is an example that lets you create a product card using HTML and CSS. The project depicts the board of a Macbook Air product.
+This project is an example of a product board designed to accommodate different screen sizes. The design presents a card showing the features and price of a product and includes style changes for various screen widths.
 
-## Features
+## Project Features
 
-- Product title, brand and model information.
-- Product features and descriptions.
-- Storage options and buttons.
-- Product price and 'Add to Cart' button.
+- **Responsive Design**: Automatically adapts to screen width.
+- **Media Queries**: Style and layout changes based on different device sizes.
+- **Font Awesome Usage**: Font Awesome library is used for icons.
+- **Use of Google Fonts**: Poppins from Google Fonts was used for fonts.
 
 ## Technologies
 
 - HTML5
 - CSS3
+- Media Query
 - Font Awesome
 - Google Fonts
 
 # Product Card
 
-Bu proje, bir ürün kartını HTML ve CSS kullanarak oluşturmanızı sağlayan bir örnektir. Proje, bir Macbook Air ürününün kartını tasvir etmektedir.
+Bu proje, bir ürün kartının farklı ekran boyutlarına uyum sağlayacak şekilde tasarlanmış bir örneğidir. Tasarım, bir ürünün özelliklerini ve fiyatını gösteren bir kart sunar ve çeşitli ekran genişliklerine göre stil değişiklikleri içerir.
 
-## Özellikler
+## Proje Özellikleri
 
-- Ürün başlığı, marka ve model bilgisi.
-- Ürün özellikleri ve açıklamaları.
-- Depolama seçenekleri ve butonlar.
-- Ürün fiyatı ve "Sepete Ekle" butonu.
+- **Duyarlı Tasarım**: Ekran genişliğine göre otomatik olarak uyum sağlar.
+- **Medya Sorguları**: Farklı cihaz boyutlarına göre stil ve düzen değişiklikleri.
+- **Font Awesome Kullanımı**: İkonlar için Font Awesome kütüphanesi kullanılmıştır.
+- **Google Fonts Kullanımı**: Yazı tipleri için Google Fonts'tan Poppins kullanılmıştır.
 
 ## Teknolojiler
 
 - HTML5
 - CSS3
+- Medya Query
 - Font Awesome
 - Google Fonts
 
